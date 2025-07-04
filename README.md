@@ -24,7 +24,6 @@
   - ✅ HR & Payroll Management Systems  
   - ✅ POS & Cash Register Systems  
   - ✅ Electronic Archiving for Governmental Use  
-  - ✅ Project Management Systems  
   - ✅ Tribal Fund Administration Platforms  
 - 💡 Focused on real-world functionality, usability, and long-term maintainability
 
@@ -54,7 +53,6 @@
 | 💼 HR System | Employee records, overtime, deductions, payroll automation | C#, WinForms, SQL Server |
 | 🛒 Sales System | POS with invoice/receipt printing, daily closing, multi-currency | WinForms, SQL Server |
 | 🗂️ Archive Manager | Track official incoming/outgoing documents for institutions | C#, SQL Server, Filesystem |
-| 🏗️ Project Manager | Manage construction project milestones, tasks & images | ASP.NET Core + Angular |
 | 💳 Tribal Fund System | Members, contributions, reports, and fund tracking | C#, SQL Server |
 
 ---
@@ -68,13 +66,6 @@
 
 ---
 
-## 🧱 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
