@@ -1,47 +1,74 @@
-## مرحبًا 👋 أنا نوري الدرسي
+<h1 align="center">مرحبا 👋 أنا نوري الدرسي | Nouri Aldrissi</h1>
+<h3 align="center">مبرمج نظم ومؤسس مشروع فينيكس للحلول التقنية</h3>
 
-مبرمج نظم وخبير في تطوير الحلول البرمجية المصممة خصيصًا للشركات والمؤسسات.
-
----
-
-### 💼 عني
-
-- 🎓 خريج إدارة أعمال  
-- 🧑‍💻 مبرمج نظم (Desktop & Web)
-- 🔧 أستخدم C#, SQL Server, ASP.NET Core, Angular  
-- 🧠 أتعلم حاليًا: ASP.NET Web API + Entity Framework  
-- 🛠️ أنجزت منظومات:  
-  - نظام الموارد البشرية وشؤون الموظفين  
-  - نظام إدارة المبيعات والخزينة  
-  - نظام إدارة المشاريع  
-  - نظام الأرشفة الإلكترونية  
-  - نظام صندوق القبيلة  
-- 🦾 أعمل على مشروع **فينيكس للحلول التقنية** لتقديم نظم احترافية متكاملة في السوق الليبي  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nouri-aldrissi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🚀 المهارات
+## 👨‍💻 من أنا
 
-**اللغات والتقنيات:**
-- `C#`, `SQL`, `HTML`, `CSS`, `TypeScript`
-- `ASP.NET Core MVC`, `Angular`, `WinForms`, `Entity Framework`
-- `ReportViewer`, `i18n`, `Tailwind CSS`, `Bootstrap`
-
-**قواعد البيانات:**
-- `SQL Server`, `MySQL`
-
-**أدوات أخرى:**
-- `Git & GitHub`, `Visual Studio`, `n8n`, `Figma`
+- 🎓 خريج إدارة أعمال، ومطور نظم ذو خبرة في تصميم وبناء حلول برمجية للشركات والمؤسسات
+- 💼 مؤسس مشروع [فينيكس للحلول التقنية](#) لتقديم أنظمة متكاملة ومخصصة في السوق الليبي
+- 🧠 أتعلم حاليًا ASP.NET Web API + Entity Framework Core
+- 🎯 أهدف إلى تقديم برمجيات عالية الجودة تساعد في تحسين الأداء الإداري والتشغيلي
 
 ---
 
-### 📫 تواصل معي
+## 🔧 المهارات التقنية
 
-- 📧 البريد: [nouri.aldrissi@gmail.com](mailto:nouri.aldrissi@gmail.com)  
-- 💼 لينكدإن: [linkedin.com/in/nouri-aldrissi](https://linkedin.com/in/nouri-aldrissi)  
-- 🧠 مشاريع فينيكس: قريبًا على موقع خاص 🌐  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dotnet" />
+  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angular" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="html/css" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=sql" height="50" alt="sql" />
+</div>
 
 ---
 
-> "أصنع الحلول التي تجعل الأعمال أسهل، وأكثر تنظيمًا."
+## 🧰 مشاريع نفذتها
+
+- 💼 **نظام الموارد البشرية وشؤون الموظفين** (HR System)
+- 🛒 **نظام المبيعات والخزينة**
+- 🗃️ **نظام الأرشفة الإلكترونية للجهات الحكومية**
+- 📊 **نظام إدارة المشاريع**
+- 💸 **نظام صندوق القبيلة**
+
+> جميع الأنظمة تم تطويرها باستخدام C# و SQL Server، مع واجهات احترافية مبنية بـ WinForms و Angular
+
+---
+
+## 🏆 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nouri-aldrissi&theme=dark&hide_border=true&mode=weekly" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nouri-aldrissi&show_icons=true&theme=dark&hide_border=true" height="150" />
+</div>
+
+---
+
+## 📫 تواصل معي
+
+<div align="center">
+  <a href="mailto:nouri.aldrissi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nouri-aldrissi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Add GitHub portfolio website if exists -->
+</div>
+
+---
+
+## 💡 رؤية فينيكس
+
+> فينيكس للحلول التقنية هو مشروع مستقل يهدف إلى تقديم نظم ذكية مخصصة للشركات والمحلات في ليبيا 🇱🇾  
+> نركز على الجودة، السرعة، والأداء… ونساعد عملاءنا على التحول الرقمي خطوة بخطوة.
+
+---
 
