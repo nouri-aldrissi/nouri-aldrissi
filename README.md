@@ -1,105 +1,83 @@
-<h1 align="center">✨ نوري الدرسي | Nouri Aldrissi ✨</h1>
-<h3 align="center">Full Stack Systems Developer • Founder of Phoenix Tech Solutions 🚀</h3>
+<h1 align="center">السلام عليكم 👋 أنا نوري الدرسي</h1>
+<h3 align="center">مبرمج نظم • مؤسس مشروع "فينيكس للحلول التقنية" • عاشق للبرمجيات عالية الجودة</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Full+Stack+Systems+Developer+from+Libya+%F0%9F%87%B1%F0%9F%87%BE;C%23+%7C+SQL+Server+%7C+Angular+%7C+ASP.NET+Core+%7C+n8n+%7C+EF+Core;Founder+of+Phoenix+Tech+Solutions+%F0%9F%94%A5;Let's+build+great+systems+together!" alt="Typing SVG" />
+</div>
+
+---
+
+## 👨‍💼 من أنا
+
+- 🎓 خريج **إدارة أعمال**  
+- 👨‍💻 مبرمج نظم بخبرة في تصميم وبناء أنظمة مخصصة للشركات والمؤسسات  
+- 💼 مؤسس **مشروع فينيكس للحلول التقنية** (Phoenix Tech Solutions)  
+- 🧠 حالياً أطور نفسي في: `ASP.NET Core Web API` و `Entity Framework`  
+- 🌍 أعمل من **ليبيا 🇱🇾** وأخدم السوق المحلي بحلول تقنية فعالة  
+- 🎯 أهدف لتقديم برمجيات موثوقة، ذكية، وسهلة الاستخدام
+
+---
+
+## 🛠️ المهارات التقنية
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="sqlserver logo"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
+</div>
+
+---
+
+## 🧰 المشاريع التي أنجزتها
+
+| 🏷️ المشروع | 💬 الوصف | 🛠️ التقنيات |
+|-----------|----------|-------------|
+| 💼 نظام الموارد البشرية | إدارة الموظفين، الرواتب، الإضافي، والخصومات | C#, WinForms, SQL Server |
+| 🛒 نظام المبيعات والخزينة | نقاط بيع، فواتير، إيصالات، صرف واستلام | C#, SQL Server |
+| 🗂️ نظام أرشفة | أرشفة وارد وصادر للجهات الحكومية | WinForms + ملفات PDF |
+| 🏗️ نظام إدارة مشاريع | إدارة المشاريع والمراحل والتقارير | ASP.NET Core + Angular |
+| 💳 صندوق القبيلة | إدارة الأعضاء والمساهمات والمصاريف | C#, SQL Server |
+
+---
+
+## 📊 إحصائيات GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nouri-aldrissi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouri-aldrissi&locale=en&layout=compact&langs_count=6&theme=dracula" height="150"/>
+</div>
+
+---
+
+## 🐍 نشاط المساهمات (Animation)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nouri-aldrissi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Building+Custom+Software+Solutions+for+Real+Businesses.;Desktop+%7C+Web+%7C+HR+%7C+Sales+%7C+Archiving.;Founder+of+Phoenix+Tech+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Business Administration Graduate turned Full Stack Systems Developer  
-- 💼 Founder of **Phoenix Tech Solutions** — crafting smart software for Libyan businesses  
-- 🧰 Expertise in: `C#`, `SQL Server`, `WinForms`, `ASP.NET Core`, `Angular`, `Tailwind`, `Entity Framework`  
-- 🛠️ I build:
-  - HR & Payroll Systems  
-  - Sales & Cash Management Systems  
-  - Government Archiving Solutions  
-  - Project Management Tools  
-  - Tribal Fund Platforms  
-- 🔥 Passionate about automation, clean UI/UX, and solving real business problems
-
----
-
-## 🚀 Tech Stack
+## 🔗 تواصل معي
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,css,tailwind,sqlserver,github" height="50" />
+  <a href="mailto:nouri.aldrissi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nouri-aldrissi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/nouri-aldrissi"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add your future site or YouTube here -->
 </div>
 
 ---
 
-## 🧠 Currently Learning
+## 💬 كلمة أخيرة
 
-- 📌 ASP.NET Core Web API  
-- 📌 Entity Framework Core  
-- 📌 Advanced Angular Patterns  
-- 📌 Automation with n8n
-
----
-
-## 🏆 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouri-aldrissi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=nouri-aldrissi&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 🧰 Projects Preview
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 💼 HR System | Employee Management, Overtime, Deductions, Payroll | C#, SQL Server, WinForms |
-| 🛒 Sales & Cash Register | POS, Invoices, Receipts, Currency Handling | WinForms, SQL Server |
-| 🗃️ Government Archiving | Track Incoming/Outgoing Docs | C#, SQL Server, Filesystem |
-| 🏗️ Project Manager | Manage Projects, Tasks, Progress, Gallery | ASP.NET Core, Angular |
-| 💳 Tribal Fund System | Members, Contributions, Expenses | C#, SQL Server |
-
----
-
-## 🧭 My Vision — Phoenix Tech 🔥
-
-> **Phoenix Tech Solutions** is an independent software project helping Libyan companies go digital through customized systems that:
-> - Increase productivity 📈  
-> - Reduce human error ⚙️  
-> - Support Arabic & local context 🗂️  
-> - Run offline/online 🔁  
-> > "We don't just build systems — we build solutions."
-
----
-
-## 📫 Let’s Connect
-
-<div align="center">
-  <a href="mailto:nouri.aldrissi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nouri-aldrissi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nouri-aldrissi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
----
-
-## 🧠 Fun Fact
-
-> رغم أنني خريج إدارة أعمال، وجدت شغفي في البرمجة وبناء الأنظمة التي تُستخدم فعليًا…  
-> أحب أن أرى أفكاري تتحول إلى أدوات يومية تدير حياة الناس وأعمالهم.
+> "البرمجة ليست مجرد كود... هي هندسة حلول تُسهّل الحياة وتُطور العمل.  
+> أنا هنا لأجعل الأنظمة تعمل من أجلك، لا العكس."
 
 ---
