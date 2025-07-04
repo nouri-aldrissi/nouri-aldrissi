@@ -1,26 +1,26 @@
 <h1 align="center">✨ نوري الدرسي | Nouri Aldrissi ✨</h1>
-<h3 align="center">Full Stack Systems Developer • Founder of Phoenix Tech Solutions 🚀</h3>
+<h3 align="center">Full Stack Systems Developer • Freelance Software Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nouri-aldrissi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=700&lines=Building+Smart+Systems+for+Real+Workflows.;HR+%7C+Sales+%7C+Archiving+%7C+Custom+Solutions.;C%23+%7C+SQL+Server+%7C+Angular+%7C+ASP.NET+Core.;Founder+of+Phoenix+Tech+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=700&lines=Building+Smart+Systems+for+Real+Workflows.;HR+%7C+Sales+%7C+Archiving+%7C+Custom+Solutions.;C%23+%7C+SQL+Server+%7C+Angular+%7C+ASP.NET+Core.;Freelance+Software+Developer+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Business Administration Graduate turned Professional Systems Developer  
-- 💼 Founder of **Phoenix Tech Solutions** — building powerful, localized software for Libyan businesses  
+- 💼 Freelance Developer building powerful, localized software solutions for Libyan businesses  
 - 🧰 Specialized in:  
   `C#`, `SQL Server`, `WinForms`, `ASP.NET Core`, `Angular`, `Tailwind CSS`, `Entity Framework`, `n8n`  
 - 💾 Expert with **Microsoft SQL Server**: designing, querying, optimizing, and managing enterprise databases  
-- 🛠️ Projects I've built:
+- 🛠️ Projects I’ve developed:
   - ✅ HR & Payroll Management Systems  
   - ✅ POS & Cash Register Systems  
   - ✅ Electronic Archiving for Governmental Use  
@@ -66,16 +66,11 @@
 
 ---
 
+## 🔥 My Vision
 
----
-
-## 🔥 My Vision — Phoenix Tech Solutions
-
-> فينيكس للحلول التقنية هو مشروع مستقل يهدف إلى تقديم أنظمة ذكية ومخصصة للشركات والمحال الليبية.  
-> نركز على الجودة والأداء والخصوصية — ونُمكّن المؤسسات من التحول الرقمي الكامل.
-
-**شعارنا:**  
-_“نحن لا نصنع منظومات فقط… نحن نبني حلولًا حقيقية.”_
+> كمطور مستقل، أسعى لتقديم حلول برمجية ذكية ومخصصة تلبي احتياجات الشركات والمحال الليبية.  
+> أؤمن بأن البرمجيات يجب أن تكون عملية، سهلة الاستخدام، ومتوافقة مع خصوصيات السوق المحلي.  
+> _“أنا لا أبني مجرد أنظمة، بل أبني حلولًا حقيقية تُسهل حياة الناس وأعمالهم.”_
 
 ---
 
@@ -91,7 +86,7 @@ _“نحن لا نصنع منظومات فقط… نحن نبني حلولًا �
 
 ## 🧠 Fun Fact
 
-> رغم أنني خريج إدارة أعمال، إلا أنني اخترت طريق البرمجة لأنه المكان الوحيد الذي أستطيع فيه أن أبني العالم بيديّ.  
-> أحب أن أرى أفكاري تتحول إلى أدوات قوية تُستخدم يوميًا، وتُحدث فرقًا حقيقيًا.
+> رغم أنني خريج إدارة أعمال، إلا أنني اخترت البرمجة لأنها المكان الذي أستطيع فيه أن أبني العالم بيديّ.  
+> أحب أن أرى أفكاري تتحول إلى أدوات تُستخدم يوميًا وتُحدث فرقًا حقيقيًا.
 
 ---
