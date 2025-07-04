@@ -1,5 +1,5 @@
-<h1 align="center">مرحبا 👋 أنا نوري الدرسي | Nouri Aldrissi</h1>
-<h3 align="center">مبرمج نظم ومؤسس مشروع فينيكس للحلول التقنية</h3>
+<h1 align="center">✨ نوري الدرسي | Nouri Aldrissi ✨</h1>
+<h3 align="center">Full Stack Systems Developer • Founder of Phoenix Tech Solutions 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nouri-aldrissi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,68 +7,99 @@
 
 ---
 
-## 👨‍💻 من أنا
-
-- 🎓 خريج إدارة أعمال، ومطور نظم ذو خبرة في تصميم وبناء حلول برمجية للشركات والمؤسسات
-- 💼 مؤسس مشروع [فينيكس للحلول التقنية](#) لتقديم أنظمة متكاملة ومخصصة في السوق الليبي
-- 🧠 أتعلم حاليًا ASP.NET Web API + Entity Framework Core
-- 🎯 أهدف إلى تقديم برمجيات عالية الجودة تساعد في تحسين الأداء الإداري والتشغيلي
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&lines=Building+Custom+Software+Solutions+for+Real+Businesses.;Desktop+%7C+Web+%7C+HR+%7C+Sales+%7C+Archiving.;Founder+of+Phoenix+Tech+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔧 المهارات التقنية
+## 👨‍💻 About Me
+
+- 🎓 Business Administration Graduate turned Full Stack Systems Developer  
+- 💼 Founder of **Phoenix Tech Solutions** — crafting smart software for Libyan businesses  
+- 🧰 Expertise in: `C#`, `SQL Server`, `WinForms`, `ASP.NET Core`, `Angular`, `Tailwind`, `Entity Framework`  
+- 🛠️ I build:
+  - HR & Payroll Systems  
+  - Sales & Cash Management Systems  
+  - Government Archiving Solutions  
+  - Project Management Tools  
+  - Tribal Fund Platforms  
+- 🔥 Passionate about automation, clean UI/UX, and solving real business problems
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="50" alt="dotnet" />
-  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="angular" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
-  <img src="https://skillicons.dev/icons?i=html,css" height="50" alt="html/css" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwind" />
-  <img src="https://skillicons.dev/icons?i=sql" height="50" alt="sql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,css,tailwind,sqlserver,github" height="50" />
 </div>
 
 ---
 
-## 🧰 مشاريع نفذتها
+## 🧠 Currently Learning
 
-- 💼 **نظام الموارد البشرية وشؤون الموظفين** (HR System)
-- 🛒 **نظام المبيعات والخزينة**
-- 🗃️ **نظام الأرشفة الإلكترونية للجهات الحكومية**
-- 📊 **نظام إدارة المشاريع**
-- 💸 **نظام صندوق القبيلة**
-
-> جميع الأنظمة تم تطويرها باستخدام C# و SQL Server، مع واجهات احترافية مبنية بـ WinForms و Angular
+- 📌 ASP.NET Core Web API  
+- 📌 Entity Framework Core  
+- 📌 Advanced Angular Patterns  
+- 📌 Automation with n8n
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 GitHub Insights
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nouri-aldrissi&theme=dark&hide_border=true&mode=weekly" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nouri-aldrissi&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nouri-aldrissi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=nouri-aldrissi&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
 
-## 📫 تواصل معي
+## 🔥 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph.svg">
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/nouri-aldrissi/nouri-aldrissi/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🧰 Projects Preview
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 💼 HR System | Employee Management, Overtime, Deductions, Payroll | C#, SQL Server, WinForms |
+| 🛒 Sales & Cash Register | POS, Invoices, Receipts, Currency Handling | WinForms, SQL Server |
+| 🗃️ Government Archiving | Track Incoming/Outgoing Docs | C#, SQL Server, Filesystem |
+| 🏗️ Project Manager | Manage Projects, Tasks, Progress, Gallery | ASP.NET Core, Angular |
+| 💳 Tribal Fund System | Members, Contributions, Expenses | C#, SQL Server |
+
+---
+
+## 🧭 My Vision — Phoenix Tech 🔥
+
+> **Phoenix Tech Solutions** is an independent software project helping Libyan companies go digital through customized systems that:
+> - Increase productivity 📈  
+> - Reduce human error ⚙️  
+> - Support Arabic & local context 🗂️  
+> - Run offline/online 🔁  
+> > "We don't just build systems — we build solutions."
+
+---
+
+## 📫 Let’s Connect
 
 <div align="center">
-  <a href="mailto:nouri.aldrissi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nouri-aldrissi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- Add GitHub portfolio website if exists -->
+  <a href="mailto:nouri.aldrissi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nouri-aldrissi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/nouri-aldrissi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
-## 💡 رؤية فينيكس
+## 🧠 Fun Fact
 
-> فينيكس للحلول التقنية هو مشروع مستقل يهدف إلى تقديم نظم ذكية مخصصة للشركات والمحلات في ليبيا 🇱🇾  
-> نركز على الجودة، السرعة، والأداء… ونساعد عملاءنا على التحول الرقمي خطوة بخطوة.
+> رغم أنني خريج إدارة أعمال، وجدت شغفي في البرمجة وبناء الأنظمة التي تُستخدم فعليًا…  
+> أحب أن أرى أفكاري تتحول إلى أدوات يومية تدير حياة الناس وأعمالهم.
 
 ---
-
