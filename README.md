@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66FCF1&center=true&vCenter=true&width=700&lines=Building+Smart+Systems+for+Real+Workflows.;HR+%7C+Sales+%7C+Archiving+%7C+Custom+Solutions.;C%23+%7C+SQL+Server+%7C+Angular+%7C+ASP.NET+Core.;Founder+of+Phoenix+Tech+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=700&lines=Building+Smart+Systems+for+Real+Workflows.;HR+%7C+Sales+%7C+Archiving+%7C+Custom+Solutions.;C%23+%7C+SQL+Server+%7C+Angular+%7C+ASP.NET+Core.;Founder+of+Phoenix+Tech+Solutions+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 
