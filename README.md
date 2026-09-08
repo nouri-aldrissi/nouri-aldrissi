@@ -1,92 +1,214 @@
-<h1 align="center">✨ نوري الدرسي | Nouri Aldrissi ✨</h1>
-<h3 align="center">Full Stack Systems Developer • Freelance Software Developer 🚀</h3>
+<div align="center">
+  
+# ✨ Nouri Aldrissi | Software & Systems Developer ✨
+
+**Full-Stack Web Developer • Backend Specialist • Systems Engineer 🚀**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nouri-aldrissi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <em>Bridging the gap between Business Strategy and Enterprise Software Architecture.</em>
 </p>
-
----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0077B6&center=true&vCenter=true&width=700&lines=Building+Smart+Systems+for+Real+Workflows.;HR+%7C+Sales+%7C+Archiving+%7C+Custom+Solutions.;C%23+%7C+SQL+Server+%7C+Angular+%7C+ASP.NET+Core.;Freelance+Software+Developer+%F0%9F%94%A5" alt="Typing SVG" />
+  <a href="https://nourialdrissi.ly"><img src="https://img.shields.io/badge/Website-nourialdrissi.ly-07162c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/nouri-aldrissi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/nouri-aldrissi-9b7218329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@Nouri-aldrissi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:me@nourialdrissi.ly"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nouri-aldrissi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Business Administration Graduate turned Professional Systems Developer  
-- 💼 Freelance Developer building powerful, localized software solutions for Libyan businesses  
-- 🧰 Specialized in:  
-  `C#`, `SQL Server`, `WinForms`, `ASP.NET Core`, `Angular`, `Tailwind CSS`, `Entity Framework`, `n8n`  
-- 💾 Expert with **Microsoft SQL Server**: designing, querying, optimizing, and managing enterprise databases  
-- 🛠️ Projects I’ve developed:
-  - ✅ HR & Payroll Management Systems  
-  - ✅ POS & Cash Register Systems  
-  - ✅ Electronic Archiving for Governmental Use  
-  - ✅ Tribal Fund Administration Platforms  
-- 💡 Focused on real-world functionality, usability, and long-term maintainability
+I am **Nouri Aldrissi**, a Full-Stack Software Developer and Systems Developer based in Libya. I specialize in building web applications and software systems designed to solve real-world problems in business environments. 
+
+My academic journey began in the field of Economics and Business Administration before I transitioned into the world of software development. This unique path allowed me to combine a deep understanding of business operations with the technical skills to build robust software systems.
+
+Currently, I work as a **Full-Stack Developer** with a strong focus on **Backend development**, system architecture, database design, and API development, alongside crafting modern web interfaces. I am passionate about building practical, well-organized, maintainable, and scalable software centered entirely around actual business needs.
+
+### 💼 What I Do
+- ⚙️ **Backend Development & APIs**
+- 🌐 **Full-Stack Web Development**
+- 🏗️ **Software Architecture & System Design**
+- 🏢 **Enterprise Business & Management Systems**
+- 🖥️ **Desktop Application Development**
+- ⚙️ **Server Management & Deployment**
+- 🛠️ **IT & Hardware Maintenance**
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Business + Software Engineering
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,html,css,tailwind,sqlserver,github" height="45" />
-</div>
+One of the defining characteristics of my career path is the intersection of two vital fields:
+> **Business Administration + Software Engineering**
 
----
+This duality allows me to approach any system from two perspectives. First, I ask:
+* *"What is the exact business problem that needs to be solved?"*
 
-## 🧠 Currently Learning
+Then, I ask:
+* *"How do we architect and build the most appropriate software system to solve it?"*
 
-- 📌 ASP.NET Core Web API + Clean Architecture  
-- 📌 Entity Framework Core & Advanced LINQ  
-- 📌 Angular State Management (RxJS, NgRx)  
-- 📌 Low-code Automation with n8n
+Because of this, my primary focus is developing systems that serve **actual operational workflows** rather than just building technical projects for the sake of experimentation.
 
 ---
 
-## 🧰 Projects Preview
+## 🎯 My Approach
 
-| 🧩 Project | 📝 Description | ⚙️ Stack |
-|-----------|----------------|----------|
-| 💼 HR System | Employee records, overtime, deductions, payroll automation | C#, WinForms, SQL Server |
-| 🛒 Sales System | POS with invoice/receipt printing, daily closing, multi-currency | WinForms, SQL Server |
-| 🗂️ Archive Manager | Track official incoming/outgoing documents for institutions | C#, SQL Server, Filesystem |
-| 💳 Tribal Fund System | Members, contributions, reports, and fund tracking | C#, SQL Server |
+I firmly believe that software development does not begin with writing code. It begins with a process:
+
+> **Understanding the Problem ➔ Requirements Analysis ➔ Solution Design ➔ System Construction ➔ Testing ➔ Continuous Development**
+
+This is why I prioritize the engineering and architectural integrity of a system, not just the blind implementation of features.
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### ⚙️ Backend & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet" height="40" alt="Backend" />
+</p>
+
+- **Languages & Frameworks:** C#, .NET, ASP.NET Core, ASP.NET MVC, Web API.
+- **Architecture:** Clean Architecture, SOLID Principles, Dependency Injection, REST APIs, CQRS, System Design.
+- **ORM:** Entity Framework Core, LINQ.
+- **Desktop Apps:** Windows Forms (WinForms).
+
+### ⚛️ Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" height="40" alt="Frontend" />
+</p>
+
+- **Frameworks & Libraries:** React, Next.js.
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3.
+- **Styling:** Tailwind CSS, Bootstrap.
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="Databases" />
+</p>
+
+- Microsoft SQL Server, Advanced Database Design, SQL, Query Optimization.
+
+### 🛠️ AI, DevOps & IT Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode,postman" height="40" alt="Tools" />
+</p>
+
+- **AI-Assisted Coding:** Highly proficient in utilizing AI tools for accelerated development, primarily **Cursor AI IDE**.
+- **Deployment & Hosting:** Windows Server Hosting, **Plesk** Control Panel (Management, CI/CD, Git deployment).
+- **IT & Hardware:** Strong background in PC hardware, maintenance, cooling diagnostics, and technical support.
+- **Version Control & Testing:** Git, GitHub, Docker, Postman.
+
+---
+
+## 🎓 Education & Certifications
+
+I believe in continuous learning, blending academic theory with practical application:
+
+1. 🎓 **Bachelor of Software Engineering (Currently Studying)**
+   * Expanding my academic and practical knowledge in software engineering, system design, requirements engineering, architecture, and advanced software development.
+2. 🎓 **Bachelor of Economics — Business Administration (2021)**
+   * A degree that granted me a profound understanding of management, business operations, corporate needs, and business requirements analysis.
+3. 💻 **Full-Stack Web Developer Diploma**
+   * *Route Academy* — Comprehensive study and application of modern web development, from frontend interfaces to backend servers and databases.
+4. 🏗️ **System Design Courses**
+   * Dedicated studies focusing on architecting scalable, reliable, and maintainable software systems.
+
+---
+
+## 🏢 Systems I've Built
+
+I specialize in developing custom, tailored systems for businesses and enterprises. My portfolio includes:
+
+* 📊 **Enterprise Resource Planning (ERP) Systems**
+* 🌐 **Corporate Websites & Web Platforms**
+* 👥 **HR & Employee Management Systems**
+* 💰 **Financial Management Systems**
+* 🛒 **Sales & POS (Point of Sale) Systems**
+* 🧾 **Invoice & Cash Register Systems**
+* 🗂️ **Electronic Archive Systems**
+* 📊 **Reporting & Business Management Systems**
+* 🔌 **Backend APIs & Custom Services**
+
+*In all these projects, my core focus remains translating complex Business Requirements into the perfect software solution.*
+
+---
+
+## 📦 Open Source Contributions
+
+### 🚀 Phoenix.Result
+I am the developer and maintainer of **Phoenix.Result**, a .NET library designed to standardize how operation outcomes and errors are handled, specifically within **ASP.NET Core** applications.
+
+**Key Features Include:**
+- Result Pattern (`Result<T>`)
+- Structured Errors & Validation Errors
+- Not Found & Conflict Handling
+- Pagination Support
+- Standardized `ProblemDetails`
+- Seamless ASP.NET Core Integration & Exception Handling Middleware
+
+<p align="left">
+  <a href="https://www.nuget.org/packages/Phoenix.Result"><img src="https://img.shields.io/nuget/v/Phoenix.Result?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet" /></a>
+  <a href="https://github.com/nouri-aldrissi/Phoenix.Result"><img src="https://img.shields.io/github/stars/nouri-aldrissi/Phoenix.Result?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" /></a>
+</p>
+
+---
+
+## 📚 Currently Developing
+
+I am constantly evolving my expertise. I am currently diving deeper into:
+- ⚙️ Advanced ASP.NET Core & API Design
+- 🏗️ Software Architecture & Software Engineering Principles
+- 🗄️ Advanced Database Design
+- ⚛️ React & ▲ Next.js with 🔷 TypeScript
+- 🚀 Building Scalable Web Applications
+- 📦 Expanding Open Source .NET Libraries
+
+All of this runs parallel to my university studies in Software Engineering, allowing me to immediately apply academic concepts to real-world projects.
+
+---
+
+## 🇱🇾 Building From Libya & Content Creation
+
+I work on developing software solutions targeting the needs of companies and institutions, with a special focus on the Libyan market. I believe that countless daily operations can be drastically improved through properly designed software systems. My goal is to build solutions that are useful, practical, and highly scalable.
+
+### 🎥 Sharing the Journey
+I actively share my journey in software development and system building through technical content. I cover topics including:
+- 👨‍💻 Programming & Freelancing
+- ⚙️ Backend & Full-Stack Development
+- 🏗️ Software Architecture & Databases
+- 📦 .NET & ASP.NET Core ecosystem
+
+▶️ **Subscribe to my channel:** [Nouri Aldrissi on YouTube](https://youtube.com/@Nouri-aldrissi)
 
 ---
 
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouri-aldrissi&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=nouri-aldrissi&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nouri-aldrissi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=nouri-aldrissi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🔥 My Vision
+<h3 align="center">
+  💻 Build Software. 🏗️ Engineer Systems. 🚀 Solve Real Problems.
+</h3>
 
-> كمطور مستقل، أسعى لتقديم حلول برمجية ذكية ومخصصة تلبي احتياجات الشركات والمحال الليبية.  
-> أؤمن بأن البرمجيات يجب أن تكون عملية، سهلة الاستخدام، ومتوافقة مع خصوصيات السوق المحلي.  
-> _“أنا لا أبني مجرد أنظمة، بل أبني حلولًا حقيقية تُسهل حياة الناس وأعمالهم.”_
+<p align="center">
+  <a href="https://nourialdrissi.ly">Website</a> •
+  <a href="https://www.linkedin.com/in/nouri-aldrissi-9b7218329/">LinkedIn</a> •
+  <a href="https://youtube.com/@Nouri-aldrissi">YouTube</a>
+</p>
 
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="mailto:nouri.ali.aldrissi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nouri-aldrissi-9b7218329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/Nouri.aldrissi"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</div>
-
----
-
-## 🧠 Fun Fact
-
-> رغم أنني خريج إدارة أعمال، إلا أنني اخترت البرمجة لأنها المكان الذي أستطيع فيه أن أبني العالم بيديّ.  
-> أحب أن أرى أفكاري تتحول إلى أدوات تُستخدم يوميًا وتُحدث فرقًا حقيقيًا.
-
----
+<p align="center">
+  <small>© 2026 Nouri Aldrissi</small>
+</p>
